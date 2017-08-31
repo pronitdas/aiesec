@@ -4,7 +4,9 @@
   "homepage": "https://pronitdas.github.io/aiesec",
   "private": false,
   "dependencies": {
+    "darksky": "^0.1.2",
     "gh-pages": "^1.0.0",
+    "material-ui": "^0.19.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.11"
